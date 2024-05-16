@@ -22,5 +22,5 @@ Eight key [datasets](./source_data/csv/) for this case study
 
 
 ## Entity Relationship Diagram
-![alt text](./images/ERD.PNG)
+![image](https://github.com/sindhujasridhar16/SQL_Chicago_crime_Weather/assets/161644360/472f5382-f8db-4225-852b-430976f414b8)
 
