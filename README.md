@@ -22,5 +22,5 @@ Eight key [datasets](./source_data/csv/) for this case study
 
 
 ## Entity Relationship Diagram
-
+![alt text](./images/ERD.PNG)
 
