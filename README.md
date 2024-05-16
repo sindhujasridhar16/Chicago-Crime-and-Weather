@@ -25,11 +25,11 @@ Eight key datasets for this case study
 <img width="198" alt="ERD" src="https://github.com/sindhujasridhar16/Chicago-Crime-and-Weather/assets/161644360/cf1b7173-1ec5-4b44-a1e8-fc58bfb2124e">
 
 ## Summary
-<br> Total Reported Crimes (2018-2023) <br />: 1.45 million, with theft being the most common.
-Violent Crimes Breakdown: Batteries, assaults, and homicides totaled over 393,000.
-Community Analysis: Austin and Near North Side topped the list for reported crimes, while Edison Park had the least.
-Seasonal Trends: July saw the highest number of crimes and homicides, correlating with hotter temperatures.
-Arrest Rates: In 2018, 19.63% of reported violent crimes led to arrests.
-Weather Impact: Street crimes peaked during warm weather, while apartments were most targeted during cold weather.
-Yearly Changes: Crime decreased in 2020, possibly due to pandemic-related factors, before rising again in 2022.
+<br> Total Reported Crimes (2018-2023): 1.45 million, with theft being the most common. <br />
+<br> Violent Crimes Breakdown: Batteries, assaults, and homicides totaled over 393,000. <br />
+<br> Community Analysis: Austin and Near North Side topped the list for reported crimes, while Edison Park had the least.<br />
+<br> Seasonal Trends: July saw the highest number of crimes and homicides, correlating with hotter temperatures.<br />
+<br> Arrest Rates: In 2018, 19.63% of reported violent crimes led to arrests.<br />
+<br> Weather Impact: Street crimes peaked during warm weather, while apartments were most targeted during cold weather.<br />
+<br> Yearly Changes: Crime decreased in 2020, possibly due to pandemic-related factors, before rising again in 2022.<br />
 
