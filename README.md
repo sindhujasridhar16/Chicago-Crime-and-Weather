@@ -1,11 +1,8 @@
 # Chicago Crime and Weather
 
-**Author**: Jaime M. Shaker <br />
-**Email**: jaime.m.shaker@gmail.com <br />
-**Website**: https://www.shaker.dev <br />
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
-
-:exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
+**Author**: Sindhuja Sridharan <br />
+**Email**: sindhujasridhar16@gmail.com <br />
+**LinkedIn**: https://www.linkedin.com/in/sindhuja-sridharan/  <br />
 
 ## Introduction
 An SQL analysis of reported crimes in the city of Chicago and the average daily temperature between 2018 and 2023.
