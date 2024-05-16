@@ -10,7 +10,7 @@ An SQL analysis of reported crimes in the city of Chicago and the average daily 
 * [Data Analysis Question & Answers](./questions_and_answers.md)
 
 ## Datasets used
-Eight key [datasets](./source_data/csv/) for this case study
+Eight key datasets for this case study
 - <strong>chicago_areas.csv</strong>: Chicago neighborhoods and areas.
 - <strong>chicago_temps_18-23.csv</strong>: City Weather 2018-2022.
 - <strong>chicago_crime_2018.csv</strong>: Reported crimes in 2018.
